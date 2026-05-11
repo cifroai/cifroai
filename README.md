@@ -70,12 +70,10 @@ Prompt Engineering & AI Agents        ██████████░░░░
 **Опыт в компаниях:**
 
 - 🏢 **Буровая компания "Евразия"** — 18 лет
-- 🏢 **АО "Самаранефтегаз" (Роснефть)** — 4 года
+- 🏢 **[ПАО "РОСНЕФТЬ"-АО "Самаранефтегаз"](https://rosneft.ru/about/Glance/OperationalStructure/Dobicha_i_razrabotka/Centralnaja_Rossija/samng/)** — 4 года
 - 🏢 **[ООО "АРГОС-БУРЕНИЕ"](https://www.argos-group.ru/about/)** — 1 год
-- 🏢 **[НОВАТЭК-Арктик СПГ 2](https://www.novatek.ru/ru/about/lng-projects/arctic-lng/)** — 1 год
-- 🏢 **Буровая компания Евразия** — Подрядчик
-- 🏢 **Аргос-Бурение** — Подрядчик
-- 🏢 **ЗН Скважинные технологии (Зарубежнефть)** — текущее место работы
+- 🏢 **[НОВАТЭК-Арктик СПГ 2](https://www.novatek.ru/ru/about/lng-projects/arctic-lng/)** — 6 лет
+- 🏢 **[АО "Зарубежнефть"-ЗН Скважинные Технологии](https://www.nestro.ru/ru/)** — текущее место работы
 
 ---
 
