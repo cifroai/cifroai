@@ -6,7 +6,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Zolotenkov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-contact%40cifro.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cifro.ai)
+[![Email](https://img.shields.io/badge/Email-contact%40cifro.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@cifroai.com)
 [![Website](https://img.shields.io/badge/Website-cifro.ai-0D9BFF?style=for-the-badge&logo=firefox&logoColor=white)](https://cifro.ai)
 [![Telegram](https://img.shields.io/badge/Telegram-@YOUR_TG-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 
